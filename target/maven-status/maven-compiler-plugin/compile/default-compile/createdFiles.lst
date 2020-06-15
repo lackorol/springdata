@@ -1,0 +1,7 @@
+com\coincoin\biz\coincoin\biz\Application.class
+com\coincoin\biz\coincoin\biz\model\Event.class
+com\coincoin\biz\coincoin\biz\model\Event$EventBuilder.class
+com\coincoin\biz\coincoin\biz\model\Group.class
+com\coincoin\biz\coincoin\biz\Initializer.class
+com\coincoin\biz\coincoin\biz\model\GroupRepository.class
+com\coincoin\biz\coincoin\biz\model\User.class
